@@ -1,9 +1,7 @@
 <script>
-  import About from "../components/About.svelte"
+	import About from '../components/About.svelte';
 </script>
 
 <div class="max-w-md mx-auto overflow-hidden text-center">
-  <About />
+	<About />
 </div>
-
- 
