@@ -10,16 +10,6 @@
 	<p class="text-xl text-slate-600 font-sans mb-6">
 		Full-stack software engineer currently working at <span class="font-bold">Kraken Flex 🐙</span>
 	</p>
-  <p class="text-xl text-slate-600 font-sans">
-    Things I'm interested in:
-  </p>
-  <div class="pl-16">
-    <ul class="list-disc list-inside text-xl text-slate-600 font-sans text-left">
-      <li class='text-base list-none'> NeoVim</li>
-      <li class='text-base list-none'> Typescript,Rust,Go</li>
-      <li class='text-base list-none'> ACG ٩(ˊᗜˋ*)و ♡</li>
-    </ul>
-  </div>
 </div>
 
 <div class="absolute bottom-10 inset-x-0">
